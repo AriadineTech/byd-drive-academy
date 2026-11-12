@@ -1,4 +1,4 @@
-# BYD Drive Academy — Missão CNH
+# BYD Drive Academy
 
 Jogo educativo de perguntas para estudar os comandos do BYD Dolphin Mini e situações básicas de direção para a CNH categoria B.
 
